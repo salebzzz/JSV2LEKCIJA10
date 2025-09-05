@@ -1,0 +1,17 @@
+
+
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#main div {
+    width: 20%;
+    padding: 20px;
+}
+
+#main img{
+    max-width: 90%
+}
